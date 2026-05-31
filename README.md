@@ -15,6 +15,15 @@ A fun command-line Snake Water Gun game built using Python.
 - Python
 - Random Module
 
+## Game Output
+
+![Game Output]
+(1snakegunwater.png)
+(2snakegunwater.png)
+(3snakegunwater.png)
+(4snakegunwater.png)
+
+
 ## How to Run
 
 ```bash
