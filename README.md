@@ -17,11 +17,10 @@ A fun command-line Snake Water Gun game built using Python.
 
 ## Game Output
 
-![Game Output]
-(1snakegunwater.png)
-(2snakegunwater.png)
-(3snakegunwater.png)
-(4snakegunwater.png)
+![Game Output](1snakegunwater.png)
+![Game Output](2snakegunwater.png)
+![Game Output](3snakegunwater.png)
+![Game Output](4snakegunwater.png)
 
 
 ## How to Run
